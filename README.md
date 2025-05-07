@@ -49,16 +49,6 @@
 
 ---
 
-### 🧠 Recent Technologies & Interests
-
-- AI Agents & Chatbots (LangChain, Anthropic, OpenAI)  
-- Infrastructure as Code with Pulumi & SST  
-- Big Data with BigQuery  
-- Power Systems Optimization with Pyomo  
-- Tourism + Tech innovations for Cusco 🌄
-
----
-
 ### 🗂️ Projects Portfolio
 
 #### 🤖 **AI-powered PDF Q&A Bot**
@@ -81,6 +71,16 @@ Developed backend microservices for an enterprise retail platform. Included orde
 🏢 *Work done for Walmart Chile (confidential)*
 
 🔗 [Visit Website](https://www.lider.cl/) | 🔧 *Private Repository*
+
+---
+
+### 🧠 Recent Technologies & Interests
+
+- AI Agents & Chatbots (LangChain, Anthropic, OpenAI)  
+- Infrastructure as Code with Pulumi & SST  
+- Big Data with BigQuery  
+- Power Systems Optimization with Pyomo  
+- Tourism + Tech innovations for Cusco 🌄
 
 ### 📫 Let's Connect
 
