@@ -67,15 +67,12 @@ A chatbot system that reads PDFs from S3, stores embeddings in ChromaDB, and ans
 
 🔗 [Demo Screenshot](https://play.google.com/store/apps/details?id=com.burntogive.calories&hl=en) | 🔧 *Code available on request*
 
----
-
 #### 🔄 **EventBridge-based ETL Pipeline**
 **Tech stack:** AWS Lambda · DynamoDB Streams · EventBridge Pipes · SNS · Pulumi  
 Built a fully serverless pipeline that captures data changes from DynamoDB and routes events through EventBridge to SNS for downstream analytics processing.
 
 🧪 [Architecture Diagram](https://rulman26-public.s3.us-east-1.amazonaws.com/arquitectura.png) | 🔧 *Code available on request*
 
----
 
 #### 📦 **E-commerce Microservices Suite**
 **Tech stack:** Go · Python · BigQuery · Kafka · Kubernetes  
