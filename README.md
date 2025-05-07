@@ -59,6 +59,32 @@
 
 ---
 
+### 🗂️ Projects Portfolio
+
+#### 🤖 **AI-powered PDF Q&A Bot**
+**Tech stack:** Python · LangChain · OpenAI · ChromaDB · Streamlit  
+A chatbot system that reads PDFs from S3, stores embeddings in ChromaDB, and answers user questions using OpenAI embeddings.
+
+🔗 [Demo Screenshot](https://play.google.com/store/apps/details?id=com.burntogive.calories&hl=en) | 🔧 *Code available on request*
+
+---
+
+#### 🔄 **EventBridge-based ETL Pipeline**
+**Tech stack:** AWS Lambda · DynamoDB Streams · EventBridge Pipes · SNS · Pulumi  
+Built a fully serverless pipeline that captures data changes from DynamoDB and routes events through EventBridge to SNS for downstream analytics processing.
+
+🧪 [Architecture Diagram](https://rulman26-public.s3.us-east-1.amazonaws.com/arquitectura.png) | 🔧 *Code available on request*
+
+---
+
+#### 📦 **E-commerce Microservices Suite**
+**Tech stack:** Go · Python · BigQuery · Kafka · Kubernetes  
+Developed backend microservices for an enterprise retail platform. Included order orchestration using Temporal IO and BigQuery analytics for product performance.
+
+🏢 *Work done for Walmart Chile (confidential)*
+
+🔗 [Visit Website](https://www.lider.cl/) | 🔧 *Private Repository*
+
 ### 📫 Let's Connect
 
 - 🧭 <a href="mailto:rulman26@gmail.com">Email me</a> for tech collaborations or consulting.
