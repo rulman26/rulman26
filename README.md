@@ -33,7 +33,8 @@
 ### 💼 Experience Highlights
 
 - 🛒 **Walmart Chile (via THE BRIDGE)**  
-  Built Go and Python microservices on Kubernetes, optimized BigQuery datasets, and implemented event-driven pipelines with Kafka.
+  Built Go and Python microservices on Kubernetes, optimized BigQuery datasets, and implemented event-driven pipelines with Kafka.  
+  Develop queries in ClickHouse to extract and process large-scale sales and inventory data in real time.
 
 - 🧠 **Betterfly Chile (via Soho)**  
   Developed personalization services using AWS Lambda, SQS, EventBridge, and Pulumi. Enhanced AI chatbot systems with LLMs.
