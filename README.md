@@ -80,7 +80,6 @@ Developed backend microservices for an enterprise retail platform. Included orde
 - AI Agents & Chatbots (LangChain, Anthropic, OpenAI)  
 - Infrastructure as Code with Pulumi & SST  
 - Big Data with BigQuery  
-- Power Systems Optimization with Pyomo  
 - Tourism + Tech innovations for Cusco 🌄
 
 ### 📫 Let's Connect
