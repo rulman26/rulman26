@@ -24,7 +24,7 @@
 | **Databases**         | PostgreSQL · DynamoDB · MongoDB · SQL Server · MySQL · Cosmos DB · BigQuery          |
 | **Frameworks**        | NestJS · Flask · Express · Temporal.IO · Spring Boot                                 |
 | **Architectures**     | Microservices · Serverless · Event-Driven · API-First                                |
-| **Frontend**          | React.js · Tailwind CSS · Zustand · jQuery                                           |
+| **Frontend**          | React.js · Tailwind CSS · Zustand · jQuery  · Next.js                                |
 | **Testing**           | Jest · Mocha · Cypress                                                                |
 | **Data & Messaging**  | Kafka · RabbitMQ · EventBridge                                                        |
 
